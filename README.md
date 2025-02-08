@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Oubey Badis!
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ---
 
 🎓 **Software Engineer** with a Bachelor's in Networks and Telecommunications Engineering from **USTHB**, Algeria, currently pursuing a Master's in Software Engineering. With over 4 years of experience in web development and a strong focus on **backend engineering**, I specialize in designing scalable RESTful APIs and integrating AI-driven solutions. Passionate about problem-solving 🧩 and writing clean, scalable code, I'm ready to turn business challenges into tech solutions 📈. Excited for the next challenge! 🚀
